@@ -1,0 +1,12 @@
+venv
+.idea
+.pytest_cache
+*.pyc
+outputs/log/
+outputs/screenshot
+outputs/allure-report
+outputs/allure-results
+timer_run.py
+timer_run_*.py
+logger_copy.py
+outputs/temu_log
